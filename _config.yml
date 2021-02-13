@@ -23,7 +23,7 @@ email: dev@kettro.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Blo for me, Ross Kettleson. The views here are my own, etc. I mostly
   want to write about programming and C. I might write about other things.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kettro.ca" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kettro
 
